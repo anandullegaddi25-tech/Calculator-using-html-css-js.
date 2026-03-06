@@ -13,7 +13,7 @@ CSS
 JavaScript
 
 ## Live Demo
-https://anandullegaddi25-tech.github.io/calculator-html-css-js/
+ https://anandullegaddi25-tech.github.io/Calculator-using-html-css-js./
 
 ## Author
 Anand Ullegaddi
